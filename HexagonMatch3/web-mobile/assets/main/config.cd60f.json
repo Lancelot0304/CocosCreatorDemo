@@ -1,0 +1,43 @@
+{
+    "paths": {},
+    "uuids": [
+        "a2MjXRFdtLlYQ5ouAFv/+R",
+        "cf1g38eqdD76GgPvyjOcKs",
+        "e6z8rddGpD6rey7lOKrfTm",
+        "ecgxf2AoxJb5rK+3/W17Q3",
+        "ecpdLyjvZBwrvm+cedCcQy"
+    ],
+    "scenes": {
+        "db://assets/bundles/physics_scene/PhysicsScene.fire": "ecgxf2AoxJb5rK+3/W17Q3",
+        "db://assets/launch_scene/LoadingScene.fire": "cf1g38eqdD76GgPvyjOcKs",
+        "db://assets/switch_scene/SwitchScene.fire": "e6z8rddGpD6rey7lOKrfTm"
+    },
+    "redirect": [
+        "a2MjXRFdtLlYQ5ouAFv/+R",
+        0,
+        "ecpdLyjvZBwrvm+cedCcQy",
+        1
+    ],
+    "deps": [
+        "resources",
+        "internal"
+    ],
+    "packs": {},
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "cf1g38eqdD76GgPvyjOcKs",
+            "7922e",
+            "e6z8rddGpD6rey7lOKrfTm",
+            "e1ab0",
+            "ecgxf2AoxJb5rK+3/W17Q3",
+            "5c3c5"
+        ],
+        "native": []
+    }
+}

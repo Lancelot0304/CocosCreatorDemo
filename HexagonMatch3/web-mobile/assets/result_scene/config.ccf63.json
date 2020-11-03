@@ -1,0 +1,56 @@
+{
+    "paths": {
+        "61a7inMctKkpiM19cer9oQ": [
+            "texture/jieshu_e",
+            "cc.SpriteFrame",
+            1
+        ],
+        "aaZQw+fh5K0qAdZ1bsMCGI": [
+            "texture/jieshu_e",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "61a7inMctKkpiM19cer9oQ",
+        "6eG3iBBWdEPa7iyv2XlpRp",
+        "a2MjXRFdtLlYQ5ouAFv/+R",
+        "aaZQw+fh5K0qAdZ1bsMCGI",
+        "ecpdLyjvZBwrvm+cedCcQy"
+    ],
+    "scenes": {
+        "db://assets/bundles/result_scene/ResultScene.fire": "6eG3iBBWdEPa7iyv2XlpRp"
+    },
+    "redirect": [
+        "a2MjXRFdtLlYQ5ouAFv/+R",
+        0,
+        "ecpdLyjvZBwrvm+cedCcQy",
+        1
+    ],
+    "deps": [
+        "resources",
+        "internal"
+    ],
+    "packs": {
+        "0d398ff8a": [
+            "61a7inMctKkpiM19cer9oQ",
+            "6eG3iBBWdEPa7iyv2XlpRp",
+            "aaZQw+fh5K0qAdZ1bsMCGI"
+        ]
+    },
+    "name": "result_scene",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "0d398ff8a",
+            "5e597"
+        ],
+        "native": [
+            "aaZQw+fh5K0qAdZ1bsMCGI",
+            "78a6c"
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "paths": {
+        "c60idtz8FBIJGVJrtuBAIQ": [
+            "script/SocketCenter/Proto/proto.d",
+            "cc.TextAsset"
+        ],
+        "31vIlawANFZqnzLlSuHBfc": [
+            "texture/HelloWorld",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6aoKpq6+5BVaCIpoemqt7E": [
+            "texture/HelloWorld",
+            "cc.Texture2D"
+        ],
+        "41D7kWhyFGY7q4NDlzkazn": [
+            "texture/singleColor",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a8Anh32NZGRZegUtSgEj26": [
+            "texture/singleColor",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "29FYIk+N1GYaeWH/q1NxQO",
+        "2dL3kvpAxJu6GJ7RdqJG5J",
+        "31vIlawANFZqnzLlSuHBfc",
+        "41D7kWhyFGY7q4NDlzkazn",
+        "6aoKpq6+5BVaCIpoemqt7E",
+        "71VhFCTINJM6/Ky3oX9nBT",
+        "a8Anh32NZGRZegUtSgEj26",
+        "b4P/PCArtIdIH38t6mlw8Y",
+        "c60idtz8FBIJGVJrtuBAIQ",
+        "e8Ueib+qJEhL6mXAHdnwbi",
+        "e97GVMl6JHh5Ml5qEDdSGa",
+        "ecpdLyjvZBwrvm+cedCcQy",
+        "f0BIwQ8D5Ml7nTNQbh1YlS"
+    ],
+    "scenes": {
+        "db://assets/bundles/chat_scene/ChatScene.fire": "2dL3kvpAxJu6GJ7RdqJG5J"
+    },
+    "redirect": [
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0
+    ],
+    "deps": [
+        "internal"
+    ],
+    "packs": {
+        "0ae1a21f5": [
+            "29FYIk+N1GYaeWH/q1NxQO",
+            "2dL3kvpAxJu6GJ7RdqJG5J",
+            "31vIlawANFZqnzLlSuHBfc",
+            "41D7kWhyFGY7q4NDlzkazn",
+            "6aoKpq6+5BVaCIpoemqt7E",
+            "71VhFCTINJM6/Ky3oX9nBT",
+            "a8Anh32NZGRZegUtSgEj26",
+            "b4P/PCArtIdIH38t6mlw8Y",
+            "c60idtz8FBIJGVJrtuBAIQ",
+            "e8Ueib+qJEhL6mXAHdnwbi",
+            "e97GVMl6JHh5Ml5qEDdSGa",
+            "f0BIwQ8D5Ml7nTNQbh1YlS"
+        ]
+    },
+    "name": "chat_scene",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "0ae1a21f5",
+            "87d48"
+        ],
+        "native": [
+            "6aoKpq6+5BVaCIpoemqt7E",
+            "55ea4",
+            "71VhFCTINJM6/Ky3oX9nBT",
+            "c06a9",
+            "a8Anh32NZGRZegUtSgEj26",
+            "cea68",
+            "b4P/PCArtIdIH38t6mlw8Y",
+            "83fcc",
+            "e8Ueib+qJEhL6mXAHdnwbi",
+            "90cf4"
+        ]
+    }
+}
